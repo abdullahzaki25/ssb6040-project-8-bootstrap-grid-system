@@ -1,0 +1,45 @@
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+    color: #4CAF50;
+}
+.navbar-dark .navbar-nav .nav-link{
+	font-weight: 500;
+}
+
+.feature-section{
+    padding: 30px 0;
+}
+.feature{
+    background: lightgray;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.feature h3{}
+.feature p{}
+
+.portfolio-section{
+	background: #EEEEEE;
+}
+.portfolio{
+	margin-bottom: 30px;
+}
+
+footer{
+	background: #1B1C34;
+}
+footer .footer{}
+footer .footer h1{
+	padding-bottom: 10px;
+	color: #989CB1;
+}
+footer .footer p{
+	padding-bottom: 10px;
+	color: #989CB1;
+	text-transform: uppercase;
+}
+footer .footer ul{}
+footer .footer ul li{
+	color: #3AB09F;
+}
+footer .footer ul li:hover{
+	color: white;
+}
